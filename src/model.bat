@@ -1,2 +1,0 @@
-python network.py
-PAUSE
